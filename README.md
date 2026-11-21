@@ -1,11 +1,13 @@
 # Advanced Business Intelligence Dashboard – Global Superstore 📊
 
-**Programme:** AnalystLab Africa Data Analytics  
 **Role:** Junior Data Analyst  
 **Tool:** Microsoft Power BI  
 
 ## Project Overview
 This project builds on exploratory analysis to deliver an advanced, multi-page executive dashboard for Global Superstore. The goal is to investigate root causes behind profitability challenges, measure the impact of discounts, and provide strategic recommendations.
+
+## Global Superstore Visualizations
+![Superstore Dashboard](https://github.com/Otto-a/Advanced-Data-Analysis--KPI-dev---BI-dashboard--Week-3-/blob/main/Dashboard%20img1.jpg)
 
 ## Business Problems Investigated
 1. **Aggressive Discounting:** Identifying how discounts above 20% destroy profit margins.
